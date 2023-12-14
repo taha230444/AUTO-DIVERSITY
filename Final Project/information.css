@@ -1,0 +1,329 @@
+.background-color {
+    background-color: rgb(16, 12, 73);
+}
+
+.nav-quote {
+    background-color: rgb(12, 12, 12);
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 101.2%;
+    height: 50px;
+
+}
+
+.nav-logo {
+    background-image:
+        url(wwwroot/images/wl\ logo.png);
+    background-position: left;
+    background-size: cover;
+    width: 160px;
+    height: 160px;
+    margin-top: -150px;
+    margin-left: -50px;
+}
+
+.nav-text {
+    color: white;
+    margin-left: 600px;
+    margin-top: -60px
+}
+
+.nav-text2 {
+    color: white;
+    margin-top: -20px;
+    margin-left: 700px;
+}
+
+.nav-2-background {
+    background-color: rgb(9, 27, 41);
+    margin-top: -19px;
+    margin-left: -10px;
+    width: 101.2%;
+    height: 48px;
+}
+
+.nav h2 {
+    color: rgb(240, 235, 235);
+    margin-top: -45px;
+    margin-left: -5px;
+
+}
+
+.sign-in-bt {
+    background-color: rgb(8, 8, 8);
+    font-size: 15px;
+    color: white;
+    float: right;
+    margin-top: -85px;
+    border-radius: 10px;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+
+.sign-in-bt:hover {
+    color: black;
+    background-color: rgb(246, 245, 248);
+}
+
+.sign-up-bt {
+    background-color: rgb(8, 8, 8);
+    color: white;
+    font-size: 15px;
+    margin-top: -85px;
+    margin-right: 59px;
+    float: right;
+    border-radius: 10px;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+
+.sign-up-bt:hover {
+    color: black;
+    background-color: rgb(246, 245, 248);
+}
+
+.post-an-ad-bt {
+    background-color: rgb(197, 16, 16);
+    color: white;
+    font-size: 15px;
+    margin-top: -55px;
+    margin-right: 10px;
+    padding: 10px;
+    float: right;
+    border-radius: 10px;
+    border: none;
+    outline: 0;
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+
+.post-an-ad-bt:hover {
+    background-color: white;
+    color: black;
+}
+
+.navbar-dropdown-text {
+    margin-left: 570px;
+    margin-top: -39px;
+    float: left;
+
+}
+
+.dropdown .dropbtn {
+    font-size: 20px;
+    border-radius: 50px;
+    border: none;
+    outline: none;
+    color: rgb(245, 239, 239);
+
+    background-color: rgb(9, 27, 41);
+    font-family: inherit;
+    margin: 0px;
+}
+
+.dropbtn {
+    background-color: rgb(230, 221, 221);
+    color: black;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: rgb(16, 12, 73);
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgb(16, 12, 73);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: rgb(238, 235, 235);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #dfd3d3;
+    color: rgb(14, 13, 13);
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.nav-home {
+    font-size: 18px;
+    color: white;
+    float: left;
+    margin-left: 487px;
+    margin-top: -61px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-sell-purchase {
+    color: white;
+    float: left;
+    margin-left: 175px;
+    margin-top: -56px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-about {
+    color: white;
+    float: left;
+    margin-left: 45px;
+    margin-top: -56px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.nav-contact {
+    color: white;
+    float: left;
+    margin-left: 50px;
+    margin-top: -56px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.main-collection-box {
+    width: 275px;
+    height: 250px;
+    background-color: rgb(0, 0, 0);
+    background-image: url(wwwroot/images/toyota_logo-removebg-preview.png);
+    background-size: cover;
+    image-resolution: 100px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 2px 4px #1a1a01;
+    border-radius: 2%;
+    padding: 0%;
+    margin-left: 200px;
+    margin-top: 60px;
+}
+
+.box-text {
+    
+}
+
+.main-collection-box-2 {
+    width: 275px;
+    height: 250px;
+    background-color: rgb(0, 0, 0);
+    background-image: url(wwwroot/images/honda.jpg);
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 2px 4px #1a1a01;
+    border-radius: 2%;
+    padding: 0%;
+    margin-left: 590px;
+    margin-top: -250px;
+}
+
+.box-text-2 {
+    padding-top: 75px;
+    text-decoration: none;
+    margin-top: 95px;
+    float: left;
+}
+
+.main-collection-box-3 {
+    width: 285px;
+    height: 250px;
+    background-color: rgb(0, 0, 0);
+    background-image: url(wwwroot/images/mitsu.png);
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 2px 4px #1a1a01;
+    border-radius: 2%;
+    padding: 0%;
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+
+.box-text-3 {
+    padding-top: 75px;
+    text-decoration: none;
+    margin-top: 95px;
+    float: left;
+}
+
+.main-collection-box-4 {
+    width: 275px;
+    height: 250px;
+    background-color: rgb(0, 0, 0);
+    background-image: url(wwwroot/images/bmw.jpg);
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 2px 4px #1a1a01;
+    border-radius: 2%;
+    padding: 0%;
+    margin-left: 200px;
+    margin-top: 110px;
+}
+
+.box-text-4 {
+    padding-top: 75px;
+    text-decoration: none;
+    margin-top: 95px;
+    float: left;
+}
+.main-collection-box-5 {
+    width: 275px;
+    height: 250px;
+    background-color: rgb(0, 0, 0);
+    background-image: url(wwwroot/images/merc.png);
+    background-size: cover;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 2px 4px #1a1a01;
+    border-radius: 2%;
+    padding: 0%;
+    margin-left: 590px;
+    margin-top: -250px;
+}
+.box-text-5 {
+    padding-top: 75px;
+    text-decoration: none;
+    margin-top: 95px;
+    float: left;
+}
+.main-collection-box-6 {
+    width: 285px;
+    height: 250px;
+    background-color: rgb(0, 0, 0);
+    background-image: url(wwwroot/images/niss.png);
+    background-size:cover;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    box-shadow: 1px 1px 2px 4px #1a1a01;
+    border-radius: 2%;
+    padding: 0%;
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+.box-text-6 {
+    padding-top: 75px;
+    text-decoration: none;
+    margin-top: 95px;
+    float: left;
+}
